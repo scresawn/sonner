@@ -31,3 +31,5 @@ function App() {
 ## Documentation
 
 Find the full API reference in the [documentation](https://sonner.emilkowal.ski/getting-started).
+
+Test.
